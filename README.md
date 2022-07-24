@@ -1,4 +1,5 @@
 # todo-app
+A Vue application that is my version of the Chapter 11 app from the Packt Publishing book 'ASP.NET Core and Vue', by Devlin Duldulao
 
 ## Project setup
 ```
